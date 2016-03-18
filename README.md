@@ -1,12 +1,12 @@
 #ksdesc: The repository for KnowledgeSpace entity articles
 
 All articles are written using markdown. For a handy markdown primer please see [this excellent guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-Folders are CURIE prefixes and CURIE fragments are filenames less the file extension.
+Folders are CURIE prefixes, and CURIE fragments are filenames less the file extension.
 The each entry corrisponds to an entity identifier in KnowledgeSpace.
 
 #Contributing
-If you would like to contribute to an article please fork and submit a pull request.
-This simplest way to accomplish this using github is as follows. 
+If you would like to contribute to an article, please fork and submit a pull request.
+The simplest way to accomplish this using github is as follows. 
 
 For an existing file:
  1. Click the `edit (pencil) button` on the upper right hand of a file.
