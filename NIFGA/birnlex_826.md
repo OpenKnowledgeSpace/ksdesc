@@ -3,4 +3,4 @@ The basal ganglia comprise two principal input nuclei, the striatum and the subt
 from Peter Redgrave (2007) [Basal Ganglia](http://www.scholarpedia.org/article/Basal_ganglia). [Scholarpedia](http://www.scholarpedia.org/Scholarpedia)
 
 The basal ganglia (or basal nuclei) comprise multiple subcortical nuclei, of varied origin, in the brains of vertebrates, which are situated at the base of the forebrain. Basal ganglia nuclei are strongly interconnected with the cerebral cortex, thalamus, and brainstem, as well as several other brain areas. The basal ganglia are associated with a variety of functions including: control of voluntary motor movements, procedural learning, routine behaviors or "habits" such as bruxism, eye movements, cognition and emotion.
-[Wikipedia [https://en.wikipedia.org/wiki/Basal_ganglia]]
+[Basal Ganglia - Wikipedia](https://en.wikipedia.org/wiki/Basal_ganglia)
