@@ -15,7 +15,7 @@ For an existing file:
  4. Submit a pull request.
 
 For a new file:
- 1. Determine the identifer that you want to create an entry for.
+ 1. Determine the identifer for which you wish to create an entry.
  2. Click the `new file` button at the top of the repository.
  3. Type into the `Name your file` box the CURIE prefix of the identifier followed by the suffix (e.g. `MBA/549.md`).
  4. Write your contribution.
